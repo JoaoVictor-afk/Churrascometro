@@ -1,7 +1,8 @@
-# Churrascometro
-Projeto
-fazer um churrascômetro, com intuito de faclilidar o calculo da quantidade de comidas, bebidas e cerveja.
 
+# Churrascometro
+Projeto <br>
+  Fazer um churrascômetro, com intuito de faclilidar o calculo da quantidade de comidas, bebidas e cerveja.
+![Screenshot_34](https://user-images.githubusercontent.com/82658732/116479759-8e1f4580-a856-11eb-8ca4-68564c117635.png)
 
 
 # Tecnologias<br>
